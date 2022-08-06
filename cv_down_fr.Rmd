@@ -1,0 +1,221 @@
+---
+title: "Doevi Mawuena BIAOU"
+author: Doevi Mawuena BIAOU
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+lang: fr
+---
+
+Aside
+================================================================================
+
+
+![Doevi BIAOU](https://avatars.githubusercontent.com/u/66371131?v=4){width=80%}
+
+Informations {#informations}
+--------------------------------------------------------------------------------
+Né le `r format(as.Date("1993-07-06"), "%d %B %Y")`, à Agatogbo (Rep. du Bénin)
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> doevimbiaou@gmail.com
+- <i class="fa fa-github"></i> [https://github.com/dmbiaou](https://github.com/dmbiaou)
+- <i class="fa fa-twitter"></i> [@DoeviMBiaou](https://twitter.com/DoeviMBiaou)
+- <i class="fa fa-phone"></i> +33 07 83 10 17 57
+
+Compétences {#competences}
+--------------------------------------------------------------------------------
+Médecin généraliste  
+Analyse de données avec R  
+
+
+Langues {data-icon=language}
+--------------------------------------------------------------------------------
+
+**Français** Lu, parlé et écrit couramment.   
+
+**Anglais** : Moyen.  
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+CV réalisé avec le package R [**pagedown**](https://github.com/rstudio/pagedown).
+
+Mise à jour le `r format(Sys.Date(), "%d %B %Y")`.
+
+
+Main
+================================================================================
+
+BIAOU, Doevi Mawuena {#title}
+--------------------------------------------------------------------------------
+
+Médecin en cours de spécialisation en Pneumologie.  
+Passionné de sciences des données et de programmation. 
+
+Diplômes, Titres {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Diplôme d'Etudes Spécialisées de Pneumo-phtisiologie
+
+Université de Lomé, Faculté des Sciences de la Santé
+
+Lomé, Togo
+
+2019 - Présent
+
+### Doctorat d'Etat en Médecine Générale  
+
+Université de Lomé, Faculté des Sciences de la Santé
+
+Lomé, Togo
+
+2021
+
+Sujet: Évaluation du traitement préventif à l'isoniazide chez les PVVIH à Lomé
+
+### Baccalauréat d’enseignement du troisième degré Série D  
+
+Office du Baccalauréat
+
+Lomé, Togo
+
+2011  
+
+
+Expérience professionnelle {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Stagiaire associé - Faisant fonction d'interne  
+
+Pneumologie - Hôpital Nord Franche Comté 
+
+Trevenans, France
+
+2021-Présent
+
+### Médecin  
+
+CHR Lomé Commune
+
+Lomé, Togo
+
+2020-2021
+
+### Interne Titulaire de Pneumologie  
+
+Pneumo-phtisiologie - CHU Sylvanus Olympio  
+
+Lomé, Togo
+
+2019-2021  
+
+::: concise
+- Participation à la prise en charge diagnostique, thérapeutique et préventive des affections de l'appareil respiratoire. 
+- Consultations externes de pneumologie. 
+- Actes techniques (ponctions, et biopsies pleurales, pose de drains thoraciques)
+:::
+
+
+Formations et cours {data-icon=leanpub}
+--------------------------------------------------------------------------------
+
+### Recherche de Mise en Œuvre focalisée sur les maladies infectieuses de la pauvreté  
+
+[tdrmooc.org](https://tdrmooc.org/), TDR et Institut Pasteur de Tunis  
+
+N/A
+
+2020
+
+### Introduction à la Statistique avec R  
+
+[Fun-MOOC](https://www.fun-mooc.fr), Université Paris Sud  
+
+N/A
+
+2020
+
+### Prévention et contrôle des infections appliqués au nouveau coronavirus   
+
+[Openwho.org](https://openwho.org/courses/COVID-19-IPC-FR), World Health Organization - Health Emergencies Programme
+
+N/A
+
+2020  
+
+Sociétés savantes {#soc_savantes data-icon=newspaper}  
+--------------------------------------------------------------------------------
+
+### Société Togolaise de Pneumologie (SOTOP)   
+
+N/A  
+
+N/A  
+
+2020
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Connaissances et croyances des utilisateurs de réseaux sociaux sur le syndrome d’apnées du sommeil au Togo
+
+Médecine du Sommeil  
+
+N/A  
+
+2022  
+
+Adambounou TAS, Gbeasor-Komlanvi FA, Foma W, **Biaou DM**, Doubidji AM, Adjoh KS.  
+
+
+
+Congrès et présentations {data-icon=screen-users}
+--------------------------------------------------------------------------------
+### CPLF  
+
+Participation 
+
+Lille, France  
+
+2022
+
+### 2èmes journées scientifiques sur la tuberculose au Bénin  
+
+Présentation orale  
+
+Cotonou, Bénin  
+
+2019  
+
+Titre : Problématique de la prise en charge de la tuberculose multi-résistante chez le nourrisson
+
+### 5ème congrès de la Société Burkinabé de Pneumologie (SOBUP)  
+
+Présentation orale  
+
+Ouagadougou, Burkina-Faso  
+
+2019  
+
+Titre : Prévalence des symptômes du syndrome d'apnées du sommeil chez les sujets obèses  
+
+### Congrès conjoint de la Société Africaine de Pneumologie de Langue Française (SAPLF) et de la Société Malienne de Pneumologie (SOMAP)  
+
+Participation  
+
+Bamako, Mali  
+
+2019
+
+
+
+
