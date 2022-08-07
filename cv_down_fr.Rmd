@@ -69,7 +69,7 @@ Université de Lomé, Faculté des Sciences de la Santé
 
 Lomé, Togo
 
-2019 - Présent
+2019 - Présent  
 
 ### Doctorat d'Etat en Médecine Générale  
 
@@ -118,20 +118,35 @@ Lomé, Togo
 2019-2021  
 
 ::: concise
-- Participation à la prise en charge diagnostique, thérapeutique et préventive des affections de l'appareil respiratoire. 
-- Consultations externes de pneumologie. 
+- Participation à la prise en charge diagnostique, thérapeutique et préventive des affections de l'appareil respiratoire.   
+- Consultations externes de pneumologie.  
 - Actes techniques (ponctions, et biopsies pleurales, pose de drains thoraciques)
 :::
 
 
 Formations et cours {data-icon=leanpub}
 --------------------------------------------------------------------------------
+### Recherche reproductible : principes méthodologiques pour une science transparente  
+
+[Fun-MOOC](https://www.fun-mooc.fr), INRIA 
+
+elearning  
+
+2022  
+
+### Enqêter sur la santé : comment ça marche ?  
+
+[Fun-MOOC](https://www.fun-mooc.fr), Université de Bordeaux   
+
+elearning  
+
+2022  
 
 ### Recherche de Mise en Œuvre focalisée sur les maladies infectieuses de la pauvreté  
 
 [tdrmooc.org](https://tdrmooc.org/), TDR et Institut Pasteur de Tunis  
 
-N/A
+elearning  
 
 2020
 
@@ -139,7 +154,7 @@ N/A
 
 [Fun-MOOC](https://www.fun-mooc.fr), Université Paris Sud  
 
-N/A
+elearning  
 
 2020
 
@@ -147,7 +162,7 @@ N/A
 
 [Openwho.org](https://openwho.org/courses/COVID-19-IPC-FR), World Health Organization - Health Emergencies Programme
 
-N/A
+elearning  
 
 2020  
 
@@ -155,12 +170,12 @@ Sociétés savantes {#soc_savantes data-icon=newspaper}
 --------------------------------------------------------------------------------
 
 ### Société Togolaise de Pneumologie (SOTOP)   
-
+ 
 N/A  
 
 N/A  
 
-2020
+2020  
 
 
 Publications {data-icon=file}
@@ -176,17 +191,26 @@ N/A
 
 Adambounou TAS, Gbeasor-Komlanvi FA, Foma W, **Biaou DM**, Doubidji AM, Adjoh KS.  
 
+### Accidents et incidents au cours du drainage pleural dans le service de Pneumologie du CHU Sylvanus Olympio de Lomé  
+
+Revue de Pneumologie Tropicale  
+
+N/A  
+
+2021   
+
+Efalou P, Aziagbe KA, **Biaou DM**, Adambounou TAS, Gbadamassi AG, Abasse MO, et al   
 
 
-Congrès et présentations {data-icon=screen-users}
+Congrès et présentations {data-icon=presentation-screen}
 --------------------------------------------------------------------------------
-### CPLF  
+### 26^e^ Congrès de Pneumologie de Langue Française    
 
-Participation 
+Participation  
 
 Lille, France  
 
-2022
+2022  
 
 ### 2èmes journées scientifiques sur la tuberculose au Bénin  
 
@@ -196,7 +220,7 @@ Cotonou, Bénin
 
 2019  
 
-Titre : Problématique de la prise en charge de la tuberculose multi-résistante chez le nourrisson
+Titre : Problématique de la prise en charge de la tuberculose multi-résistante chez le nourrisson  
 
 ### 5ème congrès de la Société Burkinabé de Pneumologie (SOBUP)  
 
@@ -210,12 +234,8 @@ Titre : Prévalence des symptômes du syndrome d'apnées du sommeil chez les suj
 
 ### Congrès conjoint de la Société Africaine de Pneumologie de Langue Française (SAPLF) et de la Société Malienne de Pneumologie (SOMAP)  
 
-Participation  
+Participation   
 
 Bamako, Mali  
 
-2019
-
-
-
-
+2019  
