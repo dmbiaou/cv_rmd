@@ -25,8 +25,9 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> doevimbiaou@gmail.com
-- <i class="fa fa-github"></i> [https://github.com/dmbiaou](https://github.com/dmbiaou)
-- <i class="fa fa-twitter"></i> [@DoeviMBiaou](https://twitter.com/DoeviMBiaou)
+- <i class="fa fa-github"></i> [https://github.com/dmbiaou](https://github.com/dmbiaou)  
+- <i class="fa fa-twitter"></i>
+[DoeviMBiaou](https://twitter.com/DoeviMBiaou)  
 - <i class="fa fa-phone"></i> +33 07 83 10 17 57
 
 Compétences {#competences}
@@ -180,6 +181,7 @@ N/A
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
+
 ### Factor associated with treatment noncompletion during implementation of isoniazid-preventive therapy in ten pilot sites of Lome, Togo  
 
 [Journal of Preventive, Diagnostic and Treatment Strategies in Medicine](http://www.jpdtsm.com/article.asp?issn=2949-6594;year=2022;volume=1;issue=3;spage=187;epage=191;aulast=Biaou;type=0)
@@ -188,7 +190,15 @@ N/A
 
 2022
 
-**Biaou DM**, Adambounou TAS, Ogounde NA, Efio MMT, Adjoh KS. 
+**Biaou DM**, Adambounou TAS, Ogounde NA, Efio MMT, Adjoh KS.  
+
+### Aspects épidémiologiques, cliniques, étiologiques, thérapeutiques et évolutifs des pleurésies purulentes au Centre Hospitalier Universitaire Sylvanus Olympio de Lomé 
+
+Revue de Pneumologie Tropicale  
+
+N/A
+
+Aziagbe KA, **Biaou DM**, Ogounde NA, Efalou P, Adambounou TAS, Gbadamassi AG, Adjoh KS
 
 
 ### Connaissances et croyances des utilisateurs de réseaux sociaux sur le syndrome d’apnées du sommeil au Togo
@@ -248,4 +258,4 @@ Participation
 
 Bamako, Mali  
 
-2019  
+2019
